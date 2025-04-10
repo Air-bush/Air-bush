@@ -1,5 +1,8 @@
 ## Hi there 👋
+Im Air-bush, a beginning coder learning workflow and colaboration
+I can do some python, maybe a little C# or C or Javascript on a good day
 
+🔭 I’m currently working on a transport app/web service for learning purposes and as a something to add to my portfolio
 <!--
 **Air-bush/Air-bush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
